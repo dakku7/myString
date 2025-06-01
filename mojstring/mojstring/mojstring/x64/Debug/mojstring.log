@@ -1,0 +1,6 @@
+﻿  mojstring.cpp
+D:\visualcode\mojstring\mojstring\mojstring.cpp(20,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\visualcode\mojstring\mojstring\mojstring.cpp(33,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\visualcode\mojstring\mojstring\mojstring.cpp(65,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\visualcode\mojstring\mojstring\mojstring.cpp(66,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  mojstring.vcxproj -> D:\visualcode\mojstring\mojstring\x64\Debug\mojstring.exe
